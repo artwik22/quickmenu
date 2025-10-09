@@ -34,3 +34,5 @@ yay -S quickshel
 ```bash
 git clone https://github.com/artwik22/quickmenu.git
 cd quickmenu
+mv quickmenu/quickshell ~/.config/
+```
