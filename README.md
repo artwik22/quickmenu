@@ -29,7 +29,8 @@ Make sure you have:
 Install QuickShell on Arch-based systems:
 
 ```bash
-yay -S quickshell
-
+yay -S quickshel
+```
 ```bash
-git clone 
+git clone https://github.com/artwik22/quickmenu.git
+cd quickmenu
