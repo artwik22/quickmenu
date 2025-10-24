@@ -1,5 +1,5 @@
 # QuickMenu
-
+# (In the works)
 A minimalistic **QuickShell widget** for **Hyprland**, showing essential system stats and quick controls — built with a **dark, sharp-edged design**.
 ![Showcase](preview.png)
 ---
